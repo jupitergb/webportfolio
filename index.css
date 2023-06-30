@@ -44,7 +44,7 @@ body {
 
 #logo-name {
 	color: #d3dbed;
-	font-size: 50px;
+	font-size: 54px;
 	font-family: 'Crimson Text', serif;
 	font-weight: bold;
 	font-style: italic;
@@ -59,15 +59,6 @@ h3 {
 
 .nav-link {
 	color: #d3dbed;
-}
-
-.enlarge-image {
-  cursor: zoom-in;
-}
-
-.enlarge-image:hover {
-  transform: scale(2);
-  transition: transform 0.3s ease-in-out;
 }
 
 
